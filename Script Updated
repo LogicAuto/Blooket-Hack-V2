@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Blooket Auto-Answer
 // @namespace    https://blooket.com
-// @version      2024-05-03
+// @version      2026/02/2026
 // @description  Automatically answer Blooket questions correctly. Working as of May 3rd, 2024.
 // @author       LogicAuto VandWare
 // @match        https://*.blooket.com/*
