@@ -2,7 +2,7 @@
 // @name         Blooket Auto-Answer
 // @namespace    https://blooket.com
 // @version      2026/02/2026
-// @description  Automatically answer Blooket questions correctly. Working as of May 3rd, 2024.
+// @description  Automatically answer Blooket questions correctly. Working as of Feb 27/02/2026
 // @author       LogicAuto VandWare
 // @match        https://*.blooket.com/*
 // @icon         https://res.cloudinary.com/blooket/image/upload/v1613003832/Blooks/purpleAstronaut.svg
